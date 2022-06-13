@@ -6,6 +6,13 @@ Transformer based segmentation paper list
 
 ## CVPR 2022
 * UNETR: Transformers for 3D Medical Image Segmentation [[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Hatamizadeh_UNETR_Transformers_for_3D_Medical_Image_Segmentation_WACV_2022_paper.pdf) [[code]](https://github.com/Project-MONAI/research-contributions/tree/master/UNETR/BTCV)
+* ReSTR: Convolution-free Referring Image Segmentation Using Transformers [[paper]](https://arxiv.org/abs/2203.16768)
+* Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation [[paper]](https://arxiv.org/abs/2203.01452) [[code]](https://github.com/jamycheung/Trans4PASS)
+* TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation [[paper]](https://arxiv.org/abs/2204.05525) [[code]](https://github.com/hustvl/TopFormer)
+* Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers [[paper]](https://arxiv.org/pdf/2204.11432.pdf) [[code]](https://github.com/twke18/HSG)
+* Cross-view Transformers for real-time Map-view Semantic Segmentation [[paper]](https://arxiv.org/abs/2205.02833) [[code]](https://github.com/bradyz/cross_view_transformers)
+* Multi-class Token Transformer for Weakly Supervised Semantic Segmentation [[paper]](https://arxiv.org/abs/2203.02891) [[code]](https://github.com/xulianuwa/MCTformer)
+* Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers [[paper]](https://arxiv.org/abs/2203.02664) [[code]](https://github.com/rulixiang/afa)
 
 ## NIPS 2021
 * Per-Pixel Classification is Not All You Need for Semantic Segmentation [[paper]](https://proceedings.neurips.cc/paper/2021/file/950a4152c2b4aa3ad78bdd6b366cc179-Paper.pdf) [[code]](https://github.com/facebookresearch/MaskFormer)
