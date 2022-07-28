@@ -4,6 +4,10 @@
 
 Transformer based segmentation paper list
 
+## ECCV 2022
+* OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers [[paper]](https://arxiv.org/abs/2207.02255) [[code]](https://github.com/PJLallen/OSFormer)
+* Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation [[paper]](https://arxiv.org/abs/2207.10866) [[code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
+
 ## CVPR 2022
 * UNETR: Transformers for 3D Medical Image Segmentation [[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Hatamizadeh_UNETR_Transformers_for_3D_Medical_Image_Segmentation_WACV_2022_paper.pdf) [[code]](https://github.com/Project-MONAI/research-contributions/tree/master/UNETR/BTCV)
 * ReSTR: Convolution-free Referring Image Segmentation Using Transformers [[paper]](https://arxiv.org/abs/2203.16768)
